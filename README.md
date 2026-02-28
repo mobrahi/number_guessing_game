@@ -35,3 +35,71 @@ A simple yet engaging command-line game where players try to guess a randomly ge
 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/number-guessing-game.git
+```
+
+2. Navigate to the project directory
+```bash
+cd number-guessing-game
+```
+
+3. Run the game 
+```bash
+python number_guessing_game.py
+```
+
+## 📖 Example Gameplay
+
+🎯 Welcome to the Number Guessing Game!
+I'm thinking of a number between 1 and 100.
+
+Attempt 1/10. Enter your guess: 50
+📈 Too low! Try a higher number.
+
+Attempt 2/10. Enter your guess: 75
+📉 Too high! Try a lower number.
+
+Attempt 3/10. Enter your guess: 62
+🎉 Congratulations! You guessed it in 3 attempts!
+
+Would you like to play again? (yes/no): no
+Thanks for playing! Goodbye! 👋
+
+## 🛠️ Built With
+
+- Python 3.x - Programming language
+- Random Module - Number generation
+
+## 🎯 Learning Outcomes
+
+This project helps beginners understand:
+
+- Python syntax and basic concepts
+- Random number generation
+- User input handling
+- Conditional statements (if/else)
+- Loops (while)
+- Exception handling (try/except)
+- Functions
+- Code organization
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to:
+
+- 🐛 Report bugs
+- 💡 Suggest new features
+- 📝 Improve documentation
+- 🔧 Submit pull requests
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🙏 Acknowledgments
+
+Inspired by classic number guessing games
+Perfect for Python beginners learning programming fundamentals
+
+## 📬 Contact
+
+Fairuz  - @faairuz - faairuz@gmail.com
